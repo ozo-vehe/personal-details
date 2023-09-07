@@ -1,6 +1,7 @@
 # PROFILE DETAILS
 - This is a simple React Native app that displays a user name, a slack profile picture and allows you to open the user's GitHub profile in a WebView.
-
+- Appetize.io link: [Obansa John](https://appetize.io/app/i6ndygyym7ax3yne34kv36j6oy)
+  
 ## Prerequisites
 - Knowledge of React
 - Node.js and npm installed (Node.js version 14 or higher)
