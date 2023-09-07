@@ -18,7 +18,8 @@
     "android": {
       "adaptiveIcon": {
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.ozovehe.personaldetails"
     },
     "web": {},
     "extra": {
